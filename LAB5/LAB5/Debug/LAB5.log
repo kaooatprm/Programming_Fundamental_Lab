@@ -1,0 +1,4 @@
+﻿  LAB5.cpp
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB5\LAB5\LAB5.cpp(6,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB5\LAB5\LAB5.cpp(6,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  LAB5.vcxproj -> C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB5\Debug\LAB5.exe
