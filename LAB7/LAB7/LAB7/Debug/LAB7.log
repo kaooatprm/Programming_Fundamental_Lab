@@ -1,0 +1,7 @@
+﻿  LAB7.cpp
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\LAB7\LAB7.cpp(24,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\LAB7\LAB7.cpp(24,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\LAB7\LAB7.cpp(74,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\LAB7\LAB7.cpp(74,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\LAB7\LAB7.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LAB7.vcxproj -> C:\Users\66881\Documents\CE KMITL Year 1\Programming Fundamental\Programming_Fundamental_Lab\LAB7\LAB7\Debug\LAB7.exe
